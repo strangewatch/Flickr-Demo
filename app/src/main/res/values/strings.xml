@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr Demo</string>
+    <string name="feed_error">An error occurred.\n\nSwipe down to try again.</string>
+    <string name="feed_empty">No items to display.\n\nSwipe down to try again.</string>
+</resources>
